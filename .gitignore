@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# NPM package lock files
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test coverage
+coverage/
+
+# Next.js static files
+.next/

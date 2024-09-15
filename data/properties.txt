@@ -1,0 +1,3 @@
+/v1/api/new_rate=select * from new
+/v1/api/rate=select * from rate
+/v1/api/review=select * from review
