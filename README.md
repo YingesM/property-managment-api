@@ -1,4 +1,4 @@
-# NestJS API for Property Files Managnment
+# NestJS API (Property File Managnment)
 This project is a NestJS application that provides CRUD (Create, Read, Update, Delete) operations for managing property files.
 
 ## Prerequisites
